@@ -21,7 +21,7 @@
     <string name="about_affiliation">В сотрудничестве с</string>
     <string name="version_number">Версия</string>
     <string name="about_author">Авторы：</string>
-    <string name="about">О приложении</string>
+    <string name="about">О программе</string>
     <string name="more_info">Больше информации на:</string>
     <string name="sp_key_background_color">Выбор цвета фона</string>
     <string name="skip">ПРОПУСТИТЬ</string>
@@ -31,7 +31,7 @@
     <string name="hardcoded_time">00:00</string>
     <string name="app_name">Пасьянс</string>
     <string name="pref_sound_switch">Звук</string>
-    <string name="help">Справка</string>
+    <string name="help">Помощь</string>
     <string name="about_author_contributors">и другие участники.</string>
     <string name="sel_card">Выбранная карта</string>
     <string name="sel_card_summary">Выбранная карта окружена границей</string>
